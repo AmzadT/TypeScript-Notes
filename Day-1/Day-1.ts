@@ -19,3 +19,17 @@
 //  console.log(fName) --> output = true
 
 
+
+
+
+
+
+What does the second element in the array returned by useState
+
+The current state
+
+A function to update the state
+
+The initial state
+
+The component's props

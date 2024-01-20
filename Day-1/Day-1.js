@@ -10,3 +10,4 @@
 // fName = 50;
 // fName = true;
 //  console.log(fName) --> output = true
+
